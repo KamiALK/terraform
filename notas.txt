@@ -1,0 +1,4 @@
+mkdir learn-terraform-docker-container
+
+
+touch main.tf
